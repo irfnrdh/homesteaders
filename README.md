@@ -1,2 +1,0 @@
-# homesteaders
-Notes
